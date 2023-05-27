@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "dom": "^0.0.3",
+    "react-infinite-scroll-component": "^6.1.0",
+    "react-router": "^6.8.1",
+    "react-router-dom": "^6.8.1"
+  }
+}
