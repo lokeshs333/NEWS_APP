@@ -1,6 +1,8 @@
 # NEWS_APP
 MADE A NEWSAPP USING REACT
 
+when someone will click the Technology menu 
+<img width="1680" alt="Screenshot 2023-05-27 at 9 16 24 PM" src="https://github.com/lokeshs333/NEWS_APP/assets/73874665/5b4f7a5f-5bcf-44b2-856c-c1c4ca547312">
 
 Here are some advantages of the app I have developed:
 1-User-friendly Interface: React allows for the creation of highly interactive and intuitive user interfaces. Your news app's interface is likely to be visually appealing, easy to navigate, and responsive, enhancing the overall user experience.
@@ -26,7 +28,7 @@ Here are some advantages of the app I have developed:
 
 Here i have used an ppopular api called news-api which is fetching the data fron there then i have placed those news or we can say data systimatically.
 And from this project I have learnt various things say concepts like props, react router how to featch data from api's.
-when someone will click the Technology menu 
+
 <img width="1680" alt="Screenshot 2023-05-27 at 9 16 24 PM" src="https://github.com/lokeshs333/NEWS_APP/assets/73874665/5b4f7a5f-5bcf-44b2-856c-c1c4ca547312">
 when someone will click the sports menu 
 <img width="1680" alt="Screenshot 2023-05-27 at 9 16 19 PM" src="https://github.com/lokeshs333/NEWS_APP/assets/73874665/52f733ff-157d-4c30-afed-37e5affd1407">
