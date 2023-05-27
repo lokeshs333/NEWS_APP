@@ -5,6 +5,7 @@ when someone will click the Technology menu
 <img width="1680" alt="Screenshot 2023-05-27 at 9 16 24 PM" src="https://github.com/lokeshs333/NEWS_APP/assets/73874665/5b4f7a5f-5bcf-44b2-856c-c1c4ca547312">
 
 Here are some advantages of the app I have developed:
+
 1-User-friendly Interface: React allows for the creation of highly interactive and intuitive user interfaces. Your news app's interface is likely to be visually appealing, easy to navigate, and responsive, enhancing the overall user experience.
 
 2-Cross-platform Compatibility: React enables you to build apps that can be used on multiple platforms, including web, iOS, and Android. This means your news app can reach a wider audience, regardless of the device they use.
